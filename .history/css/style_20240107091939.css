@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+
+}
+
+.container{
+    width:75%;
+    max-width: 1440px;
+    background: rgba(229, 84, 115, 0.10);
+}
+.container .header-container{
+    max-width:1080px;
+    display: flex;
+    
+}
